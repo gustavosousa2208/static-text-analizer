@@ -1,11 +1,10 @@
 import os
 import sys
 from itertools import groupby
-
 from colorama import Fore
 
 import error_cases
-
+# testing IDE
 
 def get_files(dump=False) -> list:
     files = []
